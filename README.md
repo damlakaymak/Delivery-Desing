@@ -9,6 +9,10 @@ https://www.figma.com/proto/SytkYhBhq6b5azWPvb1sTb/Untitled?node-id=40-78
 🔗 Figma Design İmage
 
 
+<img src="Untitle(desing).png" />
+
+
+
 
 # Delivery-Desing
 
