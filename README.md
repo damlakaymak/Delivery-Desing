@@ -14,14 +14,6 @@ https://www.figma.com/proto/SytkYhBhq6b5azWPvb1sTb/Untitled?node-id=40-78
 
 <img src="Untitled design.png" />
 
-🔗 Video
-
-<video width="320" height="240" controls>
-  <source src="delevery.mp4" type=".mp4">
-
-</video>
-
-
 
 ## 🛠️ Built With
 
@@ -30,5 +22,11 @@ https://www.figma.com/proto/SytkYhBhq6b5azWPvb1sTb/Untitled?node-id=40-78
 
 🛠️ Tools Used
 GitHub – Project sharing
+
+
+##Gif
+
+
+![Prototip Animasyonu](Untitled design (2).gif)
 
 
