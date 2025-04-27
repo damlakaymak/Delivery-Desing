@@ -27,6 +27,10 @@ GitHub – Project sharing
 ##Gif
 
 
+<img src="Untitled design (2).gif" alt="Açıklama Metni" />
+
+
+
 ![Prototip Animasyonu](Untitled design (2).gif)
 
 
