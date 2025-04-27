@@ -17,7 +17,7 @@ https://www.figma.com/proto/SytkYhBhq6b5azWPvb1sTb/Untitled?node-id=40-78
 🔗 Video
 
 <video width="320" height="240" controls>
-  <source src="delevery.mp4" type="delevery.mp4">
+  <source src="delevery.mp4" type=".mp4">
 
 </video>
 
