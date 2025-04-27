@@ -31,6 +31,6 @@ GitHub – Project sharing
 
 
 
-![Prototip Animasyonu](Untitled design (2).gif)
+
 
 
